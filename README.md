@@ -1,4 +1,4 @@
-# Intrepid RAS log dataset
+# Parser for Intrepid RAS log Dataset
 This project is a parser for Intrepid RAS log dataset from Blue Gene/P.
 
 The original dataset is available at https://www.usenix.org/cfdr. After decompression,  you can get the RAS log dataset ```Intrepid_RAS_0901_0908_scrubbed```. However, there are some encoding problems in the decompressed dataset, which is why I decided to parse it.
